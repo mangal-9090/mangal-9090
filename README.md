@@ -20,6 +20,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mangal-9090&show_icons=true&locale=en&layout=compact" alt="mangal-9090" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mangal-9090&show_icons=true&locale=en" alt="mangal-9090" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mangal-9090&" alt="mangal-9090" /></p>
+
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -35,7 +39,3 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mangal-9090&show_icons=true&locale=en" alt="mangal-9090" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mangal-9090&" alt="mangal-9090" /></p>
